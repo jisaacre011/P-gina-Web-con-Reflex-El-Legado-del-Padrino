@@ -11,7 +11,7 @@ mientras se consume el honor familiar.
 
 ## Instalación y ejecución
 1. Clona este repositorio:
-   `""git clone https://github.com/tu-usuario/el-legado-del-padrino.git`"
+   `""git clone https://github.com/jisaacre011/P-gina-Web-con-Reflex-El-Legado-del-Padrino`"
    `cd el-legado-del-padrino`
 2. Instala dependencias:
    `poetry install`
