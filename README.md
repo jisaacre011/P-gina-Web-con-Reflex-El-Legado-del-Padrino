@@ -34,5 +34,5 @@ mientras se consume el honor familiar.
 
 ## Créditos
 
-Proyecto desarrollado como práctica universitaria con Reflex.
+Proyecto desarrollado como práctica de ANÁLISIS Y DISEÑO DE REPORTE con Reflex.
 Temática inspirada en *El Padrino* (1972).
