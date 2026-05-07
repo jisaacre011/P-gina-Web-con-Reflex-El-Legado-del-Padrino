@@ -1,6 +1,6 @@
 ﻿# El Legado del Padrino
 
-Aplicación web creada con [Reflex](https://reflex.dev) que rinde homenaje a la película *El Padrino*.
+   Aplicación web creada con [Reflex](https://reflex.dev) que rinde homenaje a la película *El Padrino*.
 Cada clic en **"HACER UNA OFERTA"** revela una frase mítica, el personaje y sus estadísticas de poder y respeto,
 mientras se consume el honor familiar.
 
@@ -12,26 +12,26 @@ mientras se consume el honor familiar.
 ## Instalación y ejecución
 
 1. Clona este repositorio:
-   +""+git clone https://github.com/jisaacre011/P-gina-Web-con-Reflex-El-Legado-del-Padrino/tree/master+""+
+      git clone https://github.com/jisaacre011/P-gina-Web-con-Reflex-El-Legado-del-Padrino/tree/master
 
 2. Instala dependencias:
-   +""+poetry install+""+
+      poetry install
 
 3. Inicializa Reflex (primera vez):
-   +""+poetry run reflex init+""+  (opción 0)
+      poetry run reflex init  (opción 0)
 
 4. Ejecuta:
-   +""+poetry run reflex run+""+
-
-5. Abre http://localhost:3000
+   poetry run reflex run
+   
+6. Abre http://localhost:3000
 
 ## Estructura
 
-- +""+ssets/+""+ – imágenes de los personajes
-- +""+el_proyecto_godfather/el_proyecto_godfather.py+""+ – código fuente
-- +""+pyproject.toml+""+ – configuración de Poetry
+- imágenes de los personajes
+- el_proyecto_godfather/el_proyecto_godfather.py (Osea el código fuente)
+- pyproject.toml (La configuración de Poetry)
 
 ## Créditos
 
-Proyecto desarrollado como práctica de ANÁLISIS Y DISEÑO DE REPORTE con Reflex.
+ Proyecto desarrollado como práctica de ANÁLISIS Y DISEÑO DE REPORTE con Reflex.
 Temática inspirada en *El Padrino* (1972).
